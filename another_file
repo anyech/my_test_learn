@@ -1,5 +1,8 @@
 This is a another file
+<<<<<<< HEAD
 这是要搞毛线啊！！！！！
 Let me try to edit in the browser! Sounds good?
 
 Second add
+=======
+>>>>>>> parent of 9cca94c... Merge branch 'master' into test_add_file
